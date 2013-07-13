@@ -1344,6 +1344,21 @@
 	"category": "object",
 	"attribution": "Key Bump Apparel"
 },
+,
+{
+    "name": "blue_fedora",
+    "name-ja": "青フェドーラ",
+    "category": "object",
+    "contributor": "JCSalomon",
+    "url": "http://openclipart.org/detail/177540/blue-fedora-by-jcsalomon-177540"
+},
+{
+    "name": "red_fedora",
+    "name-ja": "赤のフェドーラ",
+    "category": "object",
+    "contributor": "nicubunu",
+    "url": "http://openclipart.org/detail/14848/red-fedora-by-nicubunu"
+},
 {
 	"name": "scuba_diver",
 	"name-ja": "スキューバダイバー",

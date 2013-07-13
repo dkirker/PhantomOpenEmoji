@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="blue_fedora.svg"
+   sodipodi:version="0.32"
+   height="300"
+   id="svg1"
+   width="300"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="C:\Users\dgjk86\Pictures\blue_fedora_100.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient585">
+      <stop
+         id="stop586"
+         offset="0.00000000"
+         style="stop-color:#ffffff;stop-opacity:0.175;" />
+      <stop
+         id="stop587"
+         offset="1.00000000"
+         style="stop-color:#ffffff;stop-opacity:0.375;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient579">
+      <stop
+         id="stop580"
+         offset="0.00000000"
+         style="stop-color:#000000;stop-opacity:0.408333;" />
+      <stop
+         id="stop581"
+         offset="1.00000000"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient582"
+       x1="118.03407"
+       x2="111.23201"
+       y1="250.64302"
+       y2="259.05283"
+       xlink:href="#linearGradient579"
+       gradientTransform="scale(1.7811945,0.561421)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient584"
+       x1="132.24107"
+       x2="114.92293"
+       y1="259.44821"
+       y2="353.05176"
+       xlink:href="#linearGradient585"
+       gradientTransform="scale(1.5608154,0.6406907)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient589"
+       xlink:href="#linearGradient585"
+       gradientTransform="scale(2.1950053,0.4555798)"
+       x1="73.288841"
+       y1="255.42706"
+       x2="147.04346"
+       y2="255.42706"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="726"
+     inkscape:window-width="1063"
+     inkscape:window-x="41"
+     inkscape:window-y="25"
+     inkscape:zoom="1.7466667"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     pagecolor="#ffffff"
+     showgrid="false"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="0" />
+  <g
+     id="g847"
+     transform="matrix(0.62463883,0,0,0.62463883,-3.6132419,0.36616644)">
+    <path
+       sodipodi:nodetypes="cccsc"
+       d="m 93.858365,201.90265 c 2.91352,-12.97215 5.82704,-102.335813 32.048745,-100.89446 93.23273,2.8827 189.379,-93.6877177 259.30353,121.07335 C 600.81136,322.97602 400.20197,404.05192 229.51928,396.84518 60.861668,389.7842 -83.138159,268.20474 93.858365,201.90265 z"
+       id="path575"
+       style="font-size:12px;fill:#1f3379;fill-opacity:0.99166697;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       d="m 89.488075,230.72964 c 107.800345,67.74344 285.525265,25.94429 292.809065,-7.20675 10.19734,11.5308 0,43.24049 0,43.24049 -46.61637,60.53668 -272.4144,47.56452 -297.179349,4.32404 -2.913522,-11.5308 2.913524,-36.03373 4.370284,-40.35778 z"
+       id="path576"
+       style="font-size:12px;fill-rule:evenodd;stroke:#000000;stroke-width:5"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccc"
+       d="m 130.2774,122.62843 c 27.67847,-24.502941 148.58967,10.08945 164.61404,28.82699 5.82707,31.70969 -148.58966,7.20675 -164.61404,-28.82699 z"
+       id="path578"
+       style="fill:url(#linearGradient582);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccc"
+       d="m 130.2774,158.66217 c 13.11086,30.26834 64.09752,100.89445 150.04644,33.15103 -71.3813,2.8827 -101.97331,-5.76539 -150.04644,-33.15103 z"
+       id="path583"
+       style="fill:url(#linearGradient584);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       d="m 160.86939,99.566839 c 18.93791,8.648101 138.39233,41.799131 151.50319,31.709691 14.56762,-5.7654 11.65412,-8.6481 4.3703,-10.08945 -11.6541,7.20675 -32.04876,11.5308 -155.87349,-21.620241 z"
+       id="path588"
+       style="fill:url(#linearGradient589);fill-opacity:1;fill-rule:evenodd;stroke-width:1pt"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       d="m 106.96922,246.58449 c 17.48114,8.64809 71.38131,20.17889 91.77598,21.62025 14.56761,10.08942 7.2838,25.94428 1.45677,37.47508 -39.33257,0 -84.49218,-10.08946 -96.14627,-23.06162 -7.283815,-12.97212 -4.370295,-23.06158 2.91352,-36.03371 z"
+       id="path590"
+       style="font-size:12px;fill:#ffffff;fill-opacity:0.31666703;fill-rule:evenodd;stroke:#000000;stroke-width:1.87833996pt"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Clipart by Nicu Buculei - svg_globe_green</dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>people</rdf:li>
+            <rdf:li>hat</rdf:li>
+            <rdf:li />
+            <rdf:li>clothing</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org">
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent
+             rdf:about="">
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent
+             rdf:about="">
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain">
+          <dc:date />
+        </cc:license>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
